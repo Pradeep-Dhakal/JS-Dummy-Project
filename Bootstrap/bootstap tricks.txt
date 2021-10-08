@@ -1,0 +1,110 @@
+1   container padding 
+    p5 => just setting 5px padding 
+    pt6 => just setting 6px padding at top side of container 0r any tag
+
+
+2.  
+    boot strap grid system is built with flexbox and allows up to 12 cilumns accross the page
+
+    .col- (extra small devices - screen width less than 576px)
+    .col-sm- (small devices - screen width equal to or greater than 576px)
+    .col-md- (medium devices - screen width equal to or greater than 768px)
+    .col-lg- (large devices - screen width equal to or greater than 992px)
+    .col-xl- (xlarge devices - screen width equal to or greater than 1200px)
+    .col-xxl- (xxlarge devices - screen width equal to or greater than 1400px)
+
+
+3.  
+    text/ Typography 
+    its between --- <h1> to <h6>
+    exmaple 
+    <p class="h1">h1 Bootstrap heading</p>
+    <p class="h2">h2 Bootstrap heading</p>
+    <p class="h3">h3 Bootstrap heading</p>
+    <p class="h4">h4 Bootstrap heading</p>
+    <p class="h5">h5 Bootstrap heading</p>
+    <p class="h6">h6 Bootstrap heading</p>
+
+
+    .mark     =>         yellow background color and some padding:
+    <abbr>  =>      dotted border 
+    .blockquote =>  
+
+    <dl>   => detail description list 
+        syntax
+        <dl>
+        <ddl>contecnt</ddl>
+        '''
+        '
+        '
+        <ddl> content last </ddl>
+        <dl?
+
+
+5.  
+    colors 
+    
+
+
+6.  tables 
+        Syntax
+             <table class="table">
+                    <thead>
+                    <tr>
+                        <th>Firstname</th>
+                        <th>Lastname</th>
+                        <th>Email</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr>
+                        <td>John</td>
+                        <td>Doe</td>
+                        <td>john@example.com</td>
+                    </tr>
+                    <tr>
+                        <td>Mary</td>
+                        <td>Moe</td>
+                        <td>mary@example.com</td>
+                    </tr>
+                    <tr>
+                        <td>July</td>
+                        <td>Dooley</td>
+                        <td>july@example.com</td>
+                    </tr>
+                    </tbody>
+                </table>
+
+    .table-responsive class adds a scrollbar to the table whwn needed (When it is too big horizontally )
+
+
+
+7) images 
+
+8) Jumbortorn 
+    A jumbotron was introduced in Bootstrap 3 as a big padded box for calling extra attention to some special content or informatio
+
+9) aleart => like alert box 
+
+10) burron and buttongroup 
+11) badges => like new notification 
+12) progress bar => show progress bar (upload progress/ download progress/ sending progress etc) 
+13) snippers => its like a loader 
+14) paginationa => it shows pages (previous 1 2 3 next)
+15) list group => it will ahow lists of groups (simple group of list)
+16) Cards => like id card on website 
+
+17) collaps => Collapsibles are useful when you want to hide and show large amount of content:
+18) nav bar => navigation bar  (fixed navbar, sticky top nav)
+19) caurosel => sliders / slideshow 
+
+20) modal => The Modal component is a dialog box/popup window that is displayed on top of the current page:
+
+21) tooltip => The Tooltip component is small pop-up box that appears when the user moves the mouse pointer over an element:
+
+22) scrollspy => Scrollspy is used to automatically update links in a navigation list based on scroll position. (aafai update hunxa like insta facebook)
+
+22) offcanvas => like modals (hidden box, content)
+23) grid system => Bootstrap's grid system is built with flexbox and allows up to 12 columns across the page.
+
+24) 
